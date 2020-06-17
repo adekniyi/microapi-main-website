@@ -1,2 +1,2 @@
-name: AdekNiyi
+name: adekniyi
 slack id = AdekNiyi
